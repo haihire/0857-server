@@ -10,11 +10,11 @@ export function SevUrl() {
   const sql_password = "tjdtn153";
   const allowUrl = "test";
 
-  const vShotDealer = "baccarat-dealer.pd-bet-services.com";
-  const vShotspd_bt = "0857-services.com";
-  const vShotspdbt = "spdbt.com";
-  const vShotPad = "baccarat-pad.pd-bet-services.com";
-  const vShotPad_ctrl = "baccarat-control.pd-bet-services.com";
+  const vShotDealer = "test.com";
+  const vShotspd_bt = "test.com";
+  const vShotspdbt = "test.com";
+  const vShotPad = "test.com";
+  const vShotPad_ctrl = "test.com";
 
 
   
